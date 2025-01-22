@@ -1,3 +1,5 @@
+![Picture of level 1 of the game.](gameplay_thumbnail.png)
+
 # CORE Meltdown
 
 Author: Christian Caamano
